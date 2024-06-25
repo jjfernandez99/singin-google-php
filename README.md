@@ -1,18 +1,16 @@
-# Google Login with PHP SDK
+# Ejemplo de sing in con Google y PHP
 
-## Create a Google API Project
+## Crear un proyecto en GCP
 
-Firstly, you need to create an application with Google which will allow you to register your site with Google. It allows you to set up basic information about your website and a couple of technical details as well.
+se debe de crear un poryecto de GCP.
 
-Once you’re logged in with Google, open the [Google Developers console](https://console.developers.google.com/). That should open up the **Google Dashboard** page, as shown in the following screenshot.
+### crear pantalla de consentimiento (OAuth consent screen)
 
-### Dashboard
+se crea una pantalla de concentimiento de tipo **Extenal** 
 
-From the top-left menu, click on the **Select a project** link. That should open up a popup, as shown in the following screenshot.
+### crear el ID del cliente OAth
 
-### New Project Pop Up
-
-Click on the **New Project** link and it will ask you to enter the **Project Name** and other details. Fill in the necessary details, as shown in the following example.
+de tipo  **aplicaicon web** link and it will ask you to enter the **Project Name** and other details. Fill in the necessary details, as shown in the following example.
 
 ### Create New Project
 
