@@ -18,9 +18,9 @@ $client->addScope("email");
 $client->addScope("profile");
 
 // Connect to database
-$hostname = "10.118.224.3";
-$username = "entel";
-$password = "Entel12345";
-$database = "sing-in";
+//$hostname = "10.118.224.3";
+//$username = "entel";
+//$password = "4878484s";
+//$database = "sing-in";
 
 //$conn = mysqli_connect($hostname, $username, $password, $database);
