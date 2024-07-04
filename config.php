@@ -5,8 +5,8 @@ require_once 'vendor/autoload.php';
 session_start();
 
 // init configuration
-$clientID = '234204260472-4dd49l8btvgirmrb47puf253bme7b6sd.apps.googleusercontent.com';
-$clientSecret = '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';
+$clientID = '###########-4dd49l8btvgirmrb47puf253bme7b6sd.apps.googleusercontent.com';
+$clientSecret = 'GOCSPX-################';
 $redirectUri = 'http://pagina.entelvas.com/google/singin-google-php/welcome.php';
 
 // create Client Request to access Google API
