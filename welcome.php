@@ -27,7 +27,7 @@ if (isset($_GET['code']))
  else 
 {
   if (!isset($_SESSION['user_token'])) {
-    header("Location: index.php");
+    header("Location: redirect.php");
 die();
   }
 
