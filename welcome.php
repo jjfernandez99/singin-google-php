@@ -1,5 +1,6 @@
 <?php
 require_once 'config.php';
+require_once 'vendor/autoload.php';
 
 // authenticate code from Google OAuth Flow
 if (isset($_GET['code'])) 
